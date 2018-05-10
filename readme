@@ -1,0 +1,6 @@
+npm i rimraf  将之前打包的删除
+npm i cross-env    设置环境变量的包,不用区分window还是ios，直接在前面加cross-env
+npm i eslint eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node -D
+npm i eslint-loader babel-eslint -D
+npm i husky -D
+npm i vue-server-renderer -S      vue服务点渲染插件
